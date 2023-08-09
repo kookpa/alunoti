@@ -1,0 +1,8 @@
+C:\Users\rafaela.ngodoi\source\repos\alunoti\alunoti\alunoti\bin\Debug\alunoti.exe.config
+C:\Users\rafaela.ngodoi\source\repos\alunoti\alunoti\alunoti\bin\Debug\alunoti.exe
+C:\Users\rafaela.ngodoi\source\repos\alunoti\alunoti\alunoti\bin\Debug\alunoti.pdb
+C:\Users\rafaela.ngodoi\source\repos\alunoti\alunoti\alunoti\obj\Debug\alunoti.csproj.AssemblyReference.cache
+C:\Users\rafaela.ngodoi\source\repos\alunoti\alunoti\alunoti\obj\Debug\alunoti.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafaela.ngodoi\source\repos\alunoti\alunoti\alunoti\obj\Debug\alunoti.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.ngodoi\source\repos\alunoti\alunoti\alunoti\obj\Debug\alunoti.exe
+C:\Users\rafaela.ngodoi\source\repos\alunoti\alunoti\alunoti\obj\Debug\alunoti.pdb
