@@ -1,0 +1,2 @@
+# alunoti
+aula de algoritmo 
